@@ -1,0 +1,10 @@
+<x3d>
+  <scene>
+    <shape>
+      <appearance>
+        <imageTexture url='imagenes/ctierra.jpg' />
+      </appearance>
+      <sphere />
+    </shape>
+  </scene>
+</x3d>

@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600">
+
+<path id="mercurio" fill="none" stroke="black" d="M592.65,107.35c43.22,43.22-7.99,164.51-114.38,270.91 
+c-106.4,106.4-227.69,157.61-270.91,114.38c-43.22-43.22,7.99-164.51,114.38-270.91C428.13,115.34,549.42,64.13,592.65,107.35z"/>
+
+<circle r="10" fill="tomato"></circle>
+
+</svg>
